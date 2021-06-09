@@ -10,3 +10,6 @@ I will keep this in working dorectory now
 
 
 I added a branch
+
+
+This is not fast forward merge on Branching 
