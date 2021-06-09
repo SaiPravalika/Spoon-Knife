@@ -15,3 +15,5 @@ I added a branch
 This is not fast forward merge on Branching 
 
 I am gonna add fifth Branch
+
+I am adding another line before rebasing
