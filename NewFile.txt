@@ -14,6 +14,7 @@ I added a branch
 
 This is not fast forward merge on Branching 
 
-edited this in main 
+I am gonna edit sxith Branch
+Is It okay
 
 I am adding another line before rebasing
